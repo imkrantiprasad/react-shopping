@@ -1,0 +1,21 @@
+.main {
+}
+
+.company-name {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.shopping-items {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: antiquewhite;
+  width: 300px;
+  margin: 5px;
+}
